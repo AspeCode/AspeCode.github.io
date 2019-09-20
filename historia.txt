@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Os voy a contar algo
-=======
 Os voy a contar algo de historia
->>>>>>> historia
